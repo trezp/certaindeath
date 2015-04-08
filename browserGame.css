@@ -1,0 +1,38 @@
+.container {
+	max-width: 400px;
+	margin: 50px;
+}
+
+#dead {
+	display: none;
+	font-size: 5em;
+	color: red;
+}
+
+#question {
+	font-size: 1.2em; 
+	padding: 5px;
+}
+
+#readyToDie {
+	margin: 20px;
+}
+
+button {
+	height: 50px;
+	width: 150px;
+	border: none;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	letter-spacing: 1.5px;
+
+}
+
+#door1, #door2 {
+	display: none;
+}
+
+#start-over {
+	display: none;
+}
